@@ -1,0 +1,10 @@
+Developed a comprehensive e-commerce sales dashboard to gain insights into sales performance and customer behavior.
+
+Key Performance Indicators (KPIs) Tracked:
+Sales Trends: Analyzed sales data across different years to identify year-over-year growth and seasonal trends.
+Geographic Performance: Visualized sales by region (Asia Pacific, Europe, USCA) to understand market penetration and prioritize regional strategies.
+Order Details: Tracked total sales, number of returned orders, and average delivery days to monitor order fulfillment efficiency.
+Customer Segmentation: Measured sales segmented by customer type (consumer, corporate, home office) to tailor marketing efforts to specific customer groups.
+Market Analysis: Calculated the sum of sales by different markets to identify areas for expansion or focus.
+Product Profitability: Ranked the top 5 and least 5 profitable products to optimize product offerings and pricing strategies.
+Customer Loyalty: Identified the top 10 customers for targeted loyalty programs and relationship building.
